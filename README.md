@@ -2,7 +2,7 @@
 
 Hi,there! I'm Zirno_81, a current BEngg (Electronic Engineering) student of Tsinghua University.
 
-你好，我是Zirno_81，现在作为一名本科学生就读于清华大学电子工程系。
+你好，我是Zirno_81，现在是清华大学电子工程系的一名本科学生。
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=konpoku&theme=react-dark&hide_border=true&area=true)
 
