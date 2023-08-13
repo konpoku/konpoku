@@ -6,7 +6,13 @@ Hi,there! I'm Zirno_81, a current BEngg (Electronic Engineering) student of Tsin
 
 你好，我是Zirno_81，现在是清华大学电子工程系的一名本科学生。
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=konpoku&theme=react-dark&hide_border=true&area=true)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=konpoku&show_icons=true&theme=radical)
 
