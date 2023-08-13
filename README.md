@@ -1,5 +1,7 @@
 ## Measuring our life and death
 
+![](https://komarev.com/ghpvc/?username=konpoku)
+
 Hi,there! I'm Zirno_81, a current BEngg (Electronic Engineering) student of Tsinghua University.
 
 你好，我是Zirno_81，现在是清华大学电子工程系的一名本科学生。
@@ -18,6 +20,8 @@ Hi,there! I'm Zirno_81, a current BEngg (Electronic Engineering) student of Tsin
 
 - **Tools**
 
-    ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+    ![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
     ![VS](https://camo.githubusercontent.com/87e6a3ddf384d02fbc0fba1fde6d435f1cc39521b7f1133922f254fe5078fca3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f266c6f676f436f6c6f723d7768697465)
     ![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+- **Contact**
