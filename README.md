@@ -13,6 +13,7 @@ Hi,there! I'm Yujin Zhao, a current BEngg (Electronic Engineering) student of Ts
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konpoku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Languages to Learn**:
+
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,6 +21,7 @@ Hi,there! I'm Yujin Zhao, a current BEngg (Electronic Engineering) student of Ts
   
 
 - **Tools**
+
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -27,8 +29,11 @@ Hi,there! I'm Yujin Zhao, a current BEngg (Electronic Engineering) student of Ts
     ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 - **Operating System**
+
     ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  
 - **Contact**
+
     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bsy998244353@gmail.com)
