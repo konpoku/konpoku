@@ -8,10 +8,6 @@ Hi,there! I'm Jeffery Zhao, a current BEngg (Electronic Engineering) student of 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=konpoku&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konpoku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 - **Languages to Learn**:
 
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
