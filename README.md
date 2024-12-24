@@ -31,4 +31,4 @@ Hi,there! I'm Jeffery Zhao, a current BEngg (Electronic Engineering) student of 
   
 - **Contact**
 
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsy998244353@gmail.com)
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@konpoku.top)
