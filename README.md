@@ -7,10 +7,13 @@ Hi,there! I'm Jeffery Zhao, a current BEngg (Electronic Engineering) student of 
 你好，我是赵禹晋，贵州贵阳人，高中毕业于贵阳市第一中学，现在是清华大学电子工程系的一名大三本科学生。
 
 这是[我的博客](http://konpoku.github.io/)
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 - 🔭 I’m currently working with [chitu-ai](chitu.ai).
 - 🌱 I’m currently learning AI infrastructure.
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 - **Contact**
 
