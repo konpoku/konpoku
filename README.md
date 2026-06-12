@@ -10,6 +10,7 @@ Hi,there! I'm Jeffery Zhao, a current BEngg (Electronic Engineering) student of 
 
 - 🔭 I’m currently working with [chitu-ai](chitu.ai).
 - 🌱 I’m currently learning AI infrastructure.
+- ✨ I am serving as the Vice Chairman of [EESAST](https://github.com/eesast/).
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
