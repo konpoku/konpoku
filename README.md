@@ -1,21 +1,36 @@
-## ~~鱿鱼没有骨~~
+# ~~鱿鱼没有骨~~
 
-![](https://komarev.com/ghpvc/?username=konpoku)
+[![Profile Views](https://komarev.com/ghpvc/?username=konpoku&style=flat-square)](https://github.com/konpoku)
 
-Hi,there! I'm Jeffery Zhao, a current BEngg (Electronic Engineering) student of Tsinghua University.I'm from Guizhou,Guiyang, and graduated from Guiyang No.1 High School.
+[Blog](http://konpoku.github.io/) · [Email](mailto:bsy998244353@gmail.com)
 
-你好，我是赵禹晋，贵州贵阳人，高中毕业于贵阳市第一中学，现在是清华大学电子工程系的一名大三本科学生。
+Yujin Zhao / 赵禹晋
 
-这是[我的博客](http://konpoku.github.io/)
+---
 
-- 🔭 I’m currently working with [chitu-ai](chitu.ai).
-- 🌱 I’m currently learning AI infrastructure.
-- ✨ I am serving as the Vice Chairman of [EESAST](https://github.com/eesast/).
+你好，我是 **赵禹晋**，来自贵州贵阳，高中毕业于贵阳市第一中学。目前是清华大学电子工程系大三本科生。
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+- 目前在 [ByteDance Seed Infra Team](https://seed.bytedance.com/zh/) 实习
+- 正在学习 AI Infra。
+- 现任清华电子系学生科协（ [EESAST](https://github.com/eesast/) ）副主席
+- 个人博客：[konpoku.github.io](http://konpoku.github.io/)
+- 如果您对我感兴趣，可以邮件联系我
 
+---
 
+Hi there! I'm **Yujin Zhao**, a 3rd-year undergraduate student in Electronic Engineering at Tsinghua University. I come from Guiyang, Guizhou, and graduated from Guiyang No.1 High School.
 
-- **Contact**
+- Currently working with [ByteDance Seed Infra](https://seed.bytedance.com/zh/)
+- Currently learning AI infrastructure
+- Serving as the Vice Chairman of [EESAST](https://github.com/eesast/)
+- Personal blog: [konpoku.github.io](http://konpoku.github.io/)
+- Opening for opportunities (plz email me)
 
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@konpoku.top)
+---
+
+<div align="center">
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
