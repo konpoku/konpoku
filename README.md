@@ -6,6 +6,8 @@
 
 Yujin Zhao / 赵禹晋
 
+
+![Mixture of Experts](./assets/moe-ep.svg)
 ---
 
 你好，我是 **赵禹晋**，来自贵州贵阳，高中毕业于贵阳市第一中学。目前是清华大学电子工程系大三本科生。
