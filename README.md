@@ -10,7 +10,7 @@ Yujin Zhao / 赵禹晋
 
 你好，我是 **赵禹晋**，来自贵州贵阳，高中毕业于贵阳市第一中学。目前是清华大学电子工程系大三本科生。
 
-- 目前在 [ByteDance Seed Infra Team](https://seed.bytedance.com/zh/) 实习
+- 目前在 [ByteDance Seed Infra](https://seed.bytedance.com/zh/) 实习
 - 正在学习 AI Infra。
 - 现任清华电子系学生科协（ [EESAST](https://github.com/eesast/) ）副主席
 - 个人博客：[konpoku.github.io](http://konpoku.github.io/)
