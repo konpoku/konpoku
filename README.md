@@ -10,7 +10,7 @@ Yujin Zhao / 赵禹晋
 <!-- ![Mixture of Experts](./assets/moe-ep.svg) -->
 ---
 
-你好，我是 **赵禹晋**，来自贵州贵阳，高中毕业于贵阳市第一中学。目前是清华大学电子工程系大三本科生。
+你好，我是 **赵禹晋**，来自贵州贵阳，高中毕业于贵阳市第一中学。目前是清华电子工程系大四本科生。即将在清华交叉信息研究院（IIIS）继续深造。
 
 - 目前在 [ByteDance Seed](https://seed.bytedance.com/zh/) 从事 LLM Pretrain Infrastructure 实习
 - 正在学习 AI Infra 和 Computer Architecture。
@@ -20,7 +20,9 @@ Yujin Zhao / 赵禹晋
 
 ---
 
-Hi there! I'm **Yujin Zhao**, a 3rd-year undergraduate student in Electronic Engineering at Tsinghua University. I come from Guiyang, Guizhou, and graduated from Guiyang No.1 High School.
+Hi there! I'm **Yujin Zhao**, a last-year undergraduate student in Electronic Engineering at Tsinghua University. I will soon continue my studies at THU IIIS.
+
+I come from Guiyang, Guizhou, and graduated from Guiyang No.1 High School.
 
 - Currently working with [ByteDance Seed](https://seed.bytedance.com/zh/)
 - Currently learning AI Infrastructure and Computer Architecture.
